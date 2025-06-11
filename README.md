@@ -1,2 +1,2 @@
 # image
-jsDelivr图床
+图床
